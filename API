@@ -32,3 +32,14 @@ It uses requests and responses to exchange information.
 APIs have endpoints for different functions and often use formats like JSON.
 They help integrate and enhance applications efficiently.
 In short, APIs are essential tools that make it easier for different software systems to work together and share information!
+
+
+************************************************************
+
+Real-World Example
+Let’s say you want to book a flight online:
+
+You Visit a Travel Website: You go to a travel website to search for flights.
+API Request: The website makes an API request to a flight database to get available flights.
+API Response: The flight database sends back a list of flights that match your search criteria.
+You See the Results: The website displays the available flights for you to choose from.
